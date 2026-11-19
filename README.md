@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Albert 👋
 
-<!--
-**albertkho528/albertkho528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a finance undergraduate at the **Central University of Finance and Economics (CUFE)** in Beijing, studying international and corporate finance. I'm working towards a career in **quantitative finance and financial engineering**.
 
-Here are some ideas to get you started:
+### What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📈 **Quantitative research**: empirical studies of risk and return, such as momentum and volatility forecasting in Bitcoin
+- 🐍 **Python for finance**: data analysis, time-series models and backtesting in Jupyter
+- 🌐 **Web development**: fast static sites and web apps built with Astro and three.js
+
+### Tools
+
+Python · pandas · Jupyter · TypeScript · Astro · three.js · Git
+
+### Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/albert-kho-7a1915363/) · albertkhk528@gmail.com
